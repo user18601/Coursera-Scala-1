@@ -1,0 +1,6 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/lbake/AppData/Local/Temp/sbt-structure2.xml; session clear-all
+all {file:/C:/Users/lbake/Dev/recfun/}root/products {file:/C:/Users/lbake/Dev/recfun/}root/test:products
+submit leobaker96@gmail.com VPXShhWGSE8oH9ml
+submit leobaker96@gmail.com vaGUxM2TEzY3kKF2
+submit leobaker96@gmail.com vv6wwvKVXgggpZ3O
+submit leobaker96@gmail.com 5UAdjTlG2L8yISAV
